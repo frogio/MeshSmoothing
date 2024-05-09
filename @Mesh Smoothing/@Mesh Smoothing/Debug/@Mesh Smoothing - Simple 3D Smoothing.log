@@ -1,0 +1,5 @@
+﻿  Model.cpp
+D:\@New Study\@OpenGL\@Mesh Smoothing\@Mesh Smoothing\Model.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm.hpp': No such file or directory
+  Smoothing.cpp
+D:\@New Study\@OpenGL\@Mesh Smoothing\@Mesh Smoothing\Model.h(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm.hpp': No such file or directory
+  코드를 생성하고 있습니다...

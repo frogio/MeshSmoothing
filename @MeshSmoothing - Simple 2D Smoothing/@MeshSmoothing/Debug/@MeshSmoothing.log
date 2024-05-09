@@ -1,0 +1,7 @@
+﻿  MeshSmoothing.cpp
+D:\@New Study\@OpenGL\@MeshSmoothing - Simple 2D Smoothing\@MeshSmoothing\MeshSmoothing.cpp(29,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\@New Study\@OpenGL\@MeshSmoothing - Simple 2D Smoothing\@MeshSmoothing\MeshSmoothing.cpp(82,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@New Study\@OpenGL\@MeshSmoothing - Simple 2D Smoothing\@MeshSmoothing\MeshSmoothing.cpp(109,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@New Study\@OpenGL\@MeshSmoothing - Simple 2D Smoothing\@MeshSmoothing\MeshSmoothing.cpp(125,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@New Study\@OpenGL\@MeshSmoothing - Simple 2D Smoothing\@MeshSmoothing\MeshSmoothing.cpp(130,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  @MeshSmoothing.vcxproj -> D:\@New Study\@OpenGL\@MeshSmoothing - Simple 2D Smoothing\Debug\@MeshSmoothing.exe
