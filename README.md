@@ -13,10 +13,10 @@ Simple Smoothing, Laplacian Smoothing, Taubin Smoothing 구현
 ### Simple 2D, 3D Smoothing
 단순 이웃버텍스와 버텍스 자기 자신간의 위치 평균을 자신의 새로운 위치로 삼은 알고리즘 
 
-![2D Simple Smoothing1](https://github.com/frogio/MeshSmoothing/assets/12217092/1e7a7fef-543e-4384-a905-20606b108b53)
+![2D Simple Smoothing1](https://github.com/frogio/MeshSmoothing/assets/12217092/1e7a7fef-543e-4384-a905-20606b108b53)</br>
 Smoothing 수행 이전
 
-![2D Simple Smoothing2](https://github.com/frogio/MeshSmoothing/assets/12217092/85e63878-6262-4c5e-be09-6fb51ba93099)
+![2D Simple Smoothing2](https://github.com/frogio/MeshSmoothing/assets/12217092/85e63878-6262-4c5e-be09-6fb51ba93099)</br>
 Smoothing 수행 이후
 
 ![Simple Smoothing](https://github.com/frogio/MeshSmoothing/assets/12217092/e33c664f-a236-402d-8b24-1de83c05005e)
