@@ -1,4 +1,4 @@
-![2D Simple Smoothing1](https://github.com/frogio/MeshSmoothing/assets/12217092/621b7e8e-08e8-487b-a37f-feeb85cc1631)# Mesh Smoothing
+# Mesh Smoothing
 Mesh Smoothing 구현
 
 ## 작성 환경/언어
